@@ -3,4 +3,5 @@
 .venv/
 .env/
 example.db
+datafun_05_sql/
 
